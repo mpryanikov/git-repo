@@ -1,4 +1,4 @@
-print("Hello word")
-print("Hello everybody")
-333
-4
+print("Hello word");
+print("Hello everybody");
+333;
+4;
